@@ -4,8 +4,12 @@ The Amsterdam Piezo Valve is one of the best valves (through my own experience) 
 ## Instructions
 The Piezo valve control LabVIEW program is made for LabVIEW 2016, 32-bit version. Therefore, LabVIEW 2016 or a later version is recommended. To use the code, simply connect the controller to the PC with a USB cable and find the appropriate COM port, then indicate it in the code.
 
-If you want to find out more about Amsterdam Piezo Valve documentation, check it out [here](https://www.amsterdampiezovalve.com)
-.
+If you want to find out more about Amsterdam Piezo Valve documentation, check it out [here](https://www.amsterdampiezovalve.com).
+
+## You can do
+1. Set the mode, REMOTE or LOCAL
+2. Set the valve opening time
+3. Open and Close valve remotely.
 
 ## Front Panel GUI
 <img width="285" alt="Frontpanel_GUI" src="https://github.com/Tsendsuren/Amsterdam_PiezoValve/assets/29621742/83e8ab9c-85dd-474d-ab2c-b20c59590213">
